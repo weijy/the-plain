@@ -12,10 +12,10 @@ author_email:       hnrird@gmail.com
 github_username:    heiswayi # GitHub username
 
 # Site Settings
-baseurl:            "https://weijy.github.io/the-plain/" # Base URL must end WITHOUT a slash, default: ""
+url:            "https://weijy.github.io/the-plain/" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to false to disable
+timezone:           Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            false  # enables support for mathjax - set to false to disable
 
 # Site Build
 highlighter:        rouge
